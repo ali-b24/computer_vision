@@ -14,3 +14,6 @@ AFTER
 
 # 3- Rotate Image
 <img width="1414" alt="Screenshot 2023-03-07 at 12 01 22 PM" src="https://user-images.githubusercontent.com/106062758/223367057-a6817b99-06c9-4b45-b2de-a7b3f47a679c.png">
+
+# 4- Blur Image
+<img width="406" alt="Screenshot 2023-03-07 at 2 14 02 PM" src="https://user-images.githubusercontent.com/106062758/223400170-dd66d2cb-62c7-42db-ac8f-33d699743e9d.png">
