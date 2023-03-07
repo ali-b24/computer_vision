@@ -7,9 +7,9 @@
 
 # 2- Reversing Colors of the image
 
-# BEFORE
+BEFORE
 <img width="1134" alt="Screenshot 2023-03-07 at 11 56 11 AM" src="https://user-images.githubusercontent.com/106062758/223366290-e1bb09fc-bd52-4e9d-922d-92a8ce09209c.png">
-# AFTER
+AFTER
 <img width="1126" alt="Screenshot 2023-03-07 at 11 55 25 AM" src="https://user-images.githubusercontent.com/106062758/223366370-c90385a8-8961-44e5-8c1c-c2e13446a62e.png">
 
 # 3- Rotate Image
